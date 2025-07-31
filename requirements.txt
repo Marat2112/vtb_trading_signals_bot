@@ -1,0 +1,7 @@
+tinkoff-investments
+python-telegram-bot==20.3
+pandas
+numpy
+matplotlib
+asyncio
+pyinstaller
